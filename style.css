@@ -1,0 +1,14 @@
+.blog {
+  background-color: cadetblue;
+  border: 20px solid goldenrod;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+.blog h1 {
+  color: blueviolet;
+}
+.blog p {
+  color: darkkhaki;
+  font-size: 20px;
+}
